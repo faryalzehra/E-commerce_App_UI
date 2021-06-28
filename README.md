@@ -1,4 +1,4 @@
-# ecomscreen
+# E-Commerce App UI
 
 A new Flutter project.
 
